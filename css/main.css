@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    color: white;
+    margin: 10% 0%;
+    font-family: cursive;
+    font-size: 26px
+}
+input{
+    color: black;
+    text-align: center;
+}
+h1{
+    color: #5490e2;
+    font-weight: 800;
+}
+button{
+    background:none ;
+    border-radius: 10px;
+    border: 4px solid #5490e2;
+}
+#salida{
+    background: white;
+    font-size: 30px;
+    margin:15px 13em;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
